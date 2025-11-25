@@ -1,11 +1,11 @@
-# Power BI Internship Project – Cognifyz Technologies
+# Power BI Internship Project – Cognifyz Technologies | Investment Behavior & Financial Preferences Dashboard 
 
 This repository showcases the complete work I completed during my Power BI Internship at **Cognifyz Technologies**.  
 The project focuses on analyzing investment behavior, financial objectives, and information patterns using Power BI.  
 It includes all seven tasks outlined in the internship document, along with the final interactive dashboard.
 
 ---
-
+[image :https://github.com/jayitamondal2304/cognifyz-internship-project-powerbi/blob/main/Dashboard%201.jpeg
 ## 📁 Project Overview
 
 During this internship, I worked through a structured set of tasks designed to build end-to-end Power BI skills.  
