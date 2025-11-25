@@ -5,7 +5,9 @@ The project focuses on analyzing investment behavior, financial objectives, and 
 It includes all seven tasks outlined in the internship document, along with the final interactive dashboard.
 
 ---
-[image :https://github.com/jayitamondal2304/cognifyz-internship-project-powerbi/blob/main/Dashboard%201.jpeg
+<img width="1280" height="752" alt="image" src="https://github.com/user-attachments/assets/ee39ac14-d920-46f2-ab23-cd9bc63f438a" />
+
+---
 ## 📁 Project Overview
 
 During this internship, I worked through a structured set of tasks designed to build end-to-end Power BI skills.  
